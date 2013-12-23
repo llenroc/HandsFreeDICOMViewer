@@ -1,0 +1,23 @@
+﻿<Window x:Class="GoogleEarthApp.MainWindow" Loaded="Window_Loaded"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:my="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers" Title="MainWindow" Height="802" Width="1358"
+        WindowStyle="None"
+        WindowState="Maximized">
+    <Grid Width="1334" Height="772" Loaded="Window_Loaded" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="646*" />
+            <ColumnDefinition Width="688*" />
+        </Grid.ColumnDefinitions>
+        <my:KinectSensorChooser HorizontalAlignment="Left" Margin="531,333,0,0" Name="kinectSensorChooser" VerticalAlignment="Top" Width="328" Grid.ColumnSpan="2" />
+        <my:KinectColorViewer HorizontalAlignment="Right" Margin="0,224,0,0" Name="kinectColorViewer" VerticalAlignment="Top" Width="100" Height="100" Kinect="{Binding ElementName=kinectSensorChooser, Path=Kinect}" Grid.Column="1" />
+        <my:KinectDepthViewer HorizontalAlignment="Right" Margin="526,12,0,0" Name="kinectDepthViewer" VerticalAlignment="Top" Width="100" Height="100" Kinect="{Binding ElementName=kinectSensorChooser, Path=Kinect}" Grid.Column="1" />
+        <my:KinectSkeletonViewer HorizontalAlignment="Right" Margin="0,118,0,0" Name="kinectSkeletonViewer" VerticalAlignment="Top" Width="100" Height="100" Kinect="{Binding ElementName=kinectSensorChooser, Path=Kinect}" Grid.Column="1" />
+        <Label Content="Mouse" Height="27" Margin="588,332,0,412" HorizontalAlignment="Left" Width="54" Grid.Column="1" Panel.ZIndex="100" />
+        <Label Content="Cursor" Height="27" Margin="588,398,0,346" HorizontalAlignment="Left" Width="54" Grid.Column="1" Panel.ZIndex="100" />
+        <Label Content="Active" Height="27" Margin="588,465,0,279" HorizontalAlignment="Left" Width="54" Grid.Column="1" Panel.ZIndex="100" />
+        <Label Content="..." Height="27" HorizontalAlignment="Right" Margin="0,366,0,0" Name="lblMessageX" VerticalAlignment="Top" Width="100" Grid.Column="1" />
+        <Label Content="..." Height="27" HorizontalAlignment="Right" Margin="0,433,0,0" Name="lblMessageY" VerticalAlignment="Top" Width="100" Grid.Column="1" />
+        <Label Content="..." Height="27" HorizontalAlignment="Left" Margin="588,498,0,0" Name="lblMessageZ" VerticalAlignment="Top" Width="100" Grid.Column="1" />
+        <WebBrowser x:Name="webBrowser" Source="C:\Users\Onur\Documents\Visual Studio 2010\Projects\GoogleEarthApp\GoogleEarthApp\googleEarth.html" HorizontalAlignment="Left" Width="1229" Height="772" VerticalAlignment="Top" Grid.ColumnSpan="2"></WebBrowser>
+    </Grid>
+</Window>
