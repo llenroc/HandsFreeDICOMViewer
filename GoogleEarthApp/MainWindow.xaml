@@ -18,6 +18,5 @@
         <Label Content="..." Height="27" HorizontalAlignment="Right" Margin="0,366,0,0" Name="lblMessageX" VerticalAlignment="Top" Width="100" Grid.Column="1" />
         <Label Content="..." Height="27" HorizontalAlignment="Right" Margin="0,433,0,0" Name="lblMessageY" VerticalAlignment="Top" Width="100" Grid.Column="1" />
         <Label Content="..." Height="27" HorizontalAlignment="Left" Margin="588,498,0,0" Name="lblMessageZ" VerticalAlignment="Top" Width="100" Grid.Column="1" />
-        <WebBrowser x:Name="webBrowser" Source="C:\Users\Onur\Documents\Visual Studio 2010\Projects\GoogleEarthApp\GoogleEarthApp\googleEarth.html" HorizontalAlignment="Left" Width="1229" Height="772" VerticalAlignment="Top" Grid.ColumnSpan="2"></WebBrowser>
     </Grid>
 </Window>

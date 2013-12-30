@@ -1,0 +1,14 @@
+c:\users\deniz\desktop\yedek18122013\c\user\deniz\documents\visual studio 2012\Projects\BioInfoDICOMViewer\BioInfoDICOMViewer\bin\Debug\BioInfoDICOMViewer.exe.config
+c:\users\deniz\desktop\yedek18122013\c\user\deniz\documents\visual studio 2012\Projects\BioInfoDICOMViewer\BioInfoDICOMViewer\obj\Debug\BioInfoDICOMViewer.DicomTagsForm.resources
+c:\users\deniz\desktop\yedek18122013\c\user\deniz\documents\visual studio 2012\Projects\BioInfoDICOMViewer\BioInfoDICOMViewer\obj\Debug\BioInfoDICOMViewer.ImagePanelControl.resources
+c:\users\deniz\desktop\yedek18122013\c\user\deniz\documents\visual studio 2012\Projects\BioInfoDICOMViewer\BioInfoDICOMViewer\obj\Debug\BioInfoDICOMViewer.MainForm.resources
+c:\users\deniz\desktop\yedek18122013\c\user\deniz\documents\visual studio 2012\Projects\BioInfoDICOMViewer\BioInfoDICOMViewer\obj\Debug\BioInfoDICOMViewer.Properties.Resources.resources
+c:\users\deniz\desktop\yedek18122013\c\user\deniz\documents\visual studio 2012\Projects\BioInfoDICOMViewer\BioInfoDICOMViewer\obj\Debug\BioInfoDICOMViewer.WindowLevelGraphControl.resources
+c:\users\deniz\desktop\yedek18122013\c\user\deniz\documents\visual studio 2012\Projects\BioInfoDICOMViewer\BioInfoDICOMViewer\obj\Debug\BioInfoDICOMViewer.csproj.GenerateResource.Cache
+c:\users\deniz\desktop\yedek18122013\c\user\deniz\documents\visual studio 2012\Projects\BioInfoDICOMViewer\BioInfoDICOMViewer\bin\Debug\BioInfoDICOMViewer.exe
+c:\users\deniz\desktop\yedek18122013\c\user\deniz\documents\visual studio 2012\Projects\BioInfoDICOMViewer\BioInfoDICOMViewer\bin\Debug\BioInfoDICOMViewer.pdb
+c:\users\deniz\desktop\yedek18122013\c\user\deniz\documents\visual studio 2012\Projects\BioInfoDICOMViewer\BioInfoDICOMViewer\obj\Debug\BioInfoDICOMViewer.exe
+c:\users\deniz\desktop\yedek18122013\c\user\deniz\documents\visual studio 2012\Projects\BioInfoDICOMViewer\BioInfoDICOMViewer\obj\Debug\BioInfoDICOMViewer.pdb
+C:\Users\Onur\Desktop\BioInfoDICOMViewer\BioInfoDICOMViewer\bin\Debug\BioInfoDICOMViewer.exe.config
+C:\Users\Onur\Desktop\BioInfoDICOMViewer\BioInfoDICOMViewer\obj\Debug\BioInfoDICOMViewer.exe
+C:\Users\Onur\Desktop\BioInfoDICOMViewer\BioInfoDICOMViewer\obj\Debug\BioInfoDICOMViewer.pdb

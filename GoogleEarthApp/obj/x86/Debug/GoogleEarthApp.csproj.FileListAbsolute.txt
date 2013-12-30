@@ -24,3 +24,16 @@ C:\Users\Onur\Desktop\İmge İşleme\GoogleEarthApp\GoogleEarthApp\obj\x86\Debug
 C:\Users\Onur\Desktop\İmge İşleme\GoogleEarthApp\GoogleEarthApp\obj\x86\Debug\App.g.cs
 C:\Users\Onur\Desktop\İmge İşleme\GoogleEarthApp\GoogleEarthApp\obj\x86\Debug\GoogleEarthApp_Content.g.cs
 C:\Users\Onur\Desktop\İmge İşleme\GoogleEarthApp\GoogleEarthApp\obj\x86\Debug\GoogleEarthApp_MarkupCompile.cache
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\GoogleEarthApp.exe
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\GoogleEarthApp.pdb
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\GoogleEarthApp.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\Window1.baml
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\Window1.g.cs
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\App.g.cs
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\GoogleEarthApp_Content.g.cs
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\GoogleEarthApp_MarkupCompile.cache
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\MainWindow.baml
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\GoogleEarthApp.g.resources
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\GoogleEarthApp.Properties.Resources.resources
+C:\Users\Onur\Documents\GitHub\HandsFreeDICOMViewer\GoogleEarthApp\obj\x86\Debug\GoogleEarthApp.csproj.GenerateResource.Cache

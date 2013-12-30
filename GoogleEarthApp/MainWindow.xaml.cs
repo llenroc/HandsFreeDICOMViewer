@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using System.Diagnostics;
+using System.Windows;
 using System.Windows.Input;
 using Microsoft.Kinect;
 using System.Runtime.InteropServices;
@@ -31,6 +32,8 @@ namespace GoogleEarthApp
         public MainWindow()
         {
             InitializeComponent();
+            Process.Start(
+                @"\Debug\BioInfoDICOMViewer.exe");
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
